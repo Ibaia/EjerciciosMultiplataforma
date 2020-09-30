@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello">Hello</string>
+    <string name="agur">Goodbye</string>
+    <string name="cambiar">Change text</string>
+    <string name="act2">Tab2</string>
+    <string name="act1">Tab1</string>
+    <string name="defaultText">Send text</string>
+    <string name="Valor">Insert value</string>
+    <string name="restarRadio">Minus</string>
+    <string name="sumarRadio">Sum</string>
+    <string name="clave">ClavePreference</string>
+    <string name="base">This empty</string>
+</resources>
