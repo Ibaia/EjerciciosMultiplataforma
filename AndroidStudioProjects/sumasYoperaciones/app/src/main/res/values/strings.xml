@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">sumasYoperaciones</string>
+    <string name="Input1Pantalla1"></string>
+    <string name="Input2Pantalla1"></string>
+    <string name="butResult">OPERACION</string>
+    <string name="result">Resultado: </string>
+    <string name="resultNum"></string>
+    <string name="Aviso">Introduzca dos numeros por favor</string>
+    <string name="AvisoRadioButton">Seleccione una operacion</string>
+    <string name="rbutSumar">Sumar</string>
+    <string name="rbutRestar">Restar</string>
+
+</resources>

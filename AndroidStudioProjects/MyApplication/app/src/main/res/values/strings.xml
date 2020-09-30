@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="butCambiar">Cambiar Pantalla</string>
+    <string name="tvHello">Hello World!</string>
+    <string name="adios">Adios</string>
+    <string name="textInput"></string>
+
+    <string name="Input"></string>
+    <string name="butSendInput">Ir al 2</string>
+    <string name="TextoInputPantalla2"></string>
+    <string name="butPantalla2">Ir al 1</string>
+    <string name="hint">Ingrese su nombre</string>
+
+
+    <string name="butCambiar2">Cambiar Texto</string>
+    <string name="tvHello2">Holas</string>
+
+</resources>

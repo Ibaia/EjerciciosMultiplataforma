@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello">Hello world</string>
+    <string name="agur">Agur</string>
+    <string name="cambiar">Cambiar texto</string>
+    <string name="act2">Pestaña 1</string>
+    <string name="act1">Pestaña 2</string>
+    <string name="defaultText">Texto a mandar</string>
+    <string name="Valor">Insert value</string>
+    <string name="restarRadio">Restas</string>
+    <string name="sumarRadio">Sumar</string>
+
+    <string name="clave">ClavePrefence</string>
+    <string name="base">This empty</string>
+</resources>

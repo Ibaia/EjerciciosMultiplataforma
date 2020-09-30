@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiThread</string>
+    <string name="ascendente">Asc</string>
+    <string name="descendente">Des</string>
+    <string name="random">Random</string>
+    <string name="editText">Inserte un numero</string>
+</resources>

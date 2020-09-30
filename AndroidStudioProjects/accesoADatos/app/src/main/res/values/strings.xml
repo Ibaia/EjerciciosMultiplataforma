@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">accesoADatos</string>
+    <string name="tvMain">accesoADatos</string>
+    <string name="etMain"></string>
+    <string name="butSave">SAVE</string>
+    <string name="butRecover">RECOVER</string>
+</resources>
