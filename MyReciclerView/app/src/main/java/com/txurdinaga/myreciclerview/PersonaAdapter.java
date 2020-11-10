@@ -13,26 +13,20 @@ public class PersonaAdapter extends RecyclerView.Adapter<PersonaAdapter.PersonaB
         public TextView tvNombre;
         public TextView tvApellidos;
 
-
-
-
         //constructor for holder, creating views (for layouts) and giving
         // data to them (when binding -> onBindViewHolder)
         public PersonaBasicViewHolder (View itemView){
 
             super(itemView);
 
-
             tvNombre=itemView.findViewById(R.id.tvNombre);
             tvApellidos=itemView.findViewById(R.id.tvApellidos);
-
 
         }
     }
     public PersonaAdapter(){
 
     }
-
 
     @Override
     public PersonaBasicViewHolder onCreateViewHolder(final ViewGroup parent, int viewType) {
@@ -54,6 +48,5 @@ public class PersonaAdapter extends RecyclerView.Adapter<PersonaAdapter.PersonaB
     public int getItemCount() {
         return MainActivity.ciudadanos.size();
     }
-
 
 }
