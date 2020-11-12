@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExamenIbai PMDM</string>
+    <string name="recicler">Animales</string>
+    <string name="nombre">Nombre</string>
+    <string name="valoracion">Valoracion</string>
+    <string name="votar">Votar</string>
+    <string name="animal">animal</string>
+    <string name="txValoracion">No se ha votado aun</string>
+</resources>
